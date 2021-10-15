@@ -64,3 +64,7 @@ let mySprite = sprites.create(img`
     ................................7......77..........9999.........
     .................................777777................99.......
     `, SpriteKind.Player)
+let answer = 3 + 5
+game.splash("3 + 5" + answer)
+let name = "Aidan Costa"
+game.splash("Hello!" + name)
